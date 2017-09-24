@@ -1,0 +1,19 @@
+Find route on Simbrief
+Cold & Dark plane
+Set up for fuel
+Set up for passengers
+Set up for cargo
+Initialize plane
+Start APU
+Start other systems
+Program route into FMC
+Request push back
+Start Engine 2
+Once stabilized, start engine 1.
+Taxi to run way
+Set flaps for take off.
+Request clearance
+Set TOGA thrust
+Positive rate - gear up.
+Autopilot
+Land
