@@ -15,5 +15,7 @@ Set flaps for take off.
 Request clearance
 Set TOGA thrust
 Positive rate - gear up.
+Transition altitude set
 Autopilot
+Set ILS
 Land
