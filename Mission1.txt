@@ -17,5 +17,6 @@ Set TOGA thrust
 Positive rate - gear up.
 Transition altitude set
 Autopilot
-Set ILS
+Set ILS frequency
+Press approach button when in range of ILS
 Land
